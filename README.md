@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maishasupritee&show_icons=true&locale=en&layout=compact" alt="maishasupritee" /></p>
 
-<p align="left">Displaying skills and socials by referencing the repo: <a href="https://github.com/rahuldkjain/github-profile-readme-generator"></a></p>
+<p align="left">Displaying skills and socials by referencing the repo: [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)</p>
