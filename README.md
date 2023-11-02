@@ -7,9 +7,9 @@
 
 - 💬 Curious about me or my projects? **Just ask!**
 
-- 📫 How to reach me: **Please contact me via LinkedIn**
+- 📫 How to reach me: **Please contact me via LinkedIn below**
 
-- ⚡Some fun facts about me: **I love drawing, painting and fantasy books!**
+- ⚡Some fun facts about me: **I love drawing, painting, and fantasy books!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
