@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SugarTreats - Customer Management App using Django](https://github.com/maishaSupritee/SugarTreats-app)
 
-- 🌱 I’m currently learning **Django, React, R, numpy, pandas, tensorflow**
+- 🌱 I’m currently learning **Django, React and R**
 
 - 💬 Curious about me or my projects? **Just ask!**
 
