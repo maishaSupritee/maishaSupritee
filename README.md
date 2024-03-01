@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Maisha Supritee Chowdhury</h1>
-<h3 align="center">A dedicated Computer Science student with a strong passion and work ethic, actively seeking immersive learning opportunities to further develop my skills. Proficient in C++, Python, SQL, HTML/CSS/JS, and Java, with a proven track record of creating impactful software solutions.</h3>
+<h3 align="center">A dedicated Computer Science student with a strong passion and work ethic, actively seeking immersive learning opportunities to further develop my skills. Proficient in C++, Python, Kotlin, SQL, HTML/CSS, and Java, with a proven track record of creating impactful software solutions.</h3>
 
 - 🔭 I’m currently working on [SugarTreats - Customer Management App using Django](https://github.com/maishaSupritee/SugarTreats-app)
 
