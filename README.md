@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Maisha Supritee Chowdhury</h1>
 <h3 align="center">A dedicated Computer Science student with a strong passion and work ethic, actively seeking immersive learning opportunities to further develop my skills. Proficient in C++, Python, Kotlin, SQL, HTML/CSS, and Java, with a proven track record of creating impactful software solutions.</h3>
 
-- 🔭 I’m currently working on [SugarTreats - Customer Management App using Django](https://github.com/maishaSupritee/SugarTreats-app)
+- 🔭 I’m currently working on [Grad Gains - Financial Web App in NextJS](https://github.com/maishaSupritee/grad-gains) and [SugarTreats - Customer Management App using Django](https://github.com/maishaSupritee/SugarTreats-app)
 
-- 🌱 I’m currently learning **Django, TypeScript, React, Node.js**
+- 🌱 I’m currently learning **Django, TypeScript, React, NextJS**
 
 - 💬 Curious about me or my projects? **Just ask!**
 
