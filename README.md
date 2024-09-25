@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Maisha Supritee Chowdhury</h1>
 <h3 align="center">A dedicated Computer Science student with a strong passion and work ethic, actively seeking immersive learning opportunities to further develop my skills. Proficient in C++, Python, TypeScript, Kotlin, SQL, HTML/CSS, and Java, with a proven track record of creating impactful software solutions.</h3>
 
-- 🔭 I’m currently working on [InferixUI - Open Source Contribution](https://github.com/YourTechBud/inferix-ui) and [Pantry Tracker - NextJS Pantry Management App](https://github.com/maishaSupritee/pantry-tracker)
+- 🔭 I’m currently working on [InferixUI - Open Source Contribution](https://github.com/YourTechBud/inferix-ui)
 
 - 🌱 I’m currently learning **OpenAI, LangChain, AWS, TypeScript, JavaScript, React, NextJS**
 
