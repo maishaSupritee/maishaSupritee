@@ -10,7 +10,9 @@
 - 📫 How to reach me: **Please contact me via LinkedIn below**
 
 - ⚡Some fun facts about me: **I love drawing, painting, and fantasy books!**
-
+  
+- 👨‍💻 Check out my portfolio at [https://www.supritee.dev](https://www.supritee.dev)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maisha-supritee-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maisha-supritee-chowdhury" height="30" width="40" /></a>
