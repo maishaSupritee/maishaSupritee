@@ -11,7 +11,7 @@
 
 - ⚡Some fun facts about me: **I love drawing, painting, and fantasy books!**
   
-- 👨‍💻 Check out my portfolio at [https://www.supritee.dev](https://www.supritee.dev)
+- 👨‍💻 Check out my portfolio at: [https://www.supritee.dev](https://www.supritee.dev)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
