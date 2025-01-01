@@ -6,11 +6,8 @@
 - 🌱 I’m currently learning **OpenAI, LangChain, AWS, TypeScript, JavaScript, React, NextJS**
 
 - 💬 Curious about me or my projects? **Just ask!**
-
 - 📫 How to reach me: **Please contact me via LinkedIn below**
-
 - ⚡Some fun facts about me: **I love drawing, painting, and fantasy books!**
-  
 - 👨‍💻 Check out my portfolio at: [https://www.supritee.dev](https://www.supritee.dev)
   
 <h3 align="left">Connect with me:</h3>
