@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Maisha Supritee Chowdhury</h1>
-<h3 align="center">A Computer Science new grad with a strong passion and work ethic, actively seeking work pportunities to further develop my skills. Proficient in Python, C++, JavaScript, TypeScript, Kotlin, SQL, HTML/CSS, and Java, with a proven track record of creating impactful software solutions.</h3>
+<h3 align="center">A Computer Science new grad with a strong passion and work ethic, actively seeking work pportunities to further develop my skills. Proficient in Python, C++, JavaScript, TypeScript, SQL, HTML/CSS, and Java, with a proven track record of creating impactful software solutions.</h3>
 
 - 🔭 I’m currently working on [InferixUI (One App to for multiple LLM model access) - Open Source Contribution](https://github.com/YourTechBud/inferix-ui)
 - 🌱 I’m currently learning **OpenAI, LangChain, AWS, TypeScript, JavaScript, React, NextJS**
