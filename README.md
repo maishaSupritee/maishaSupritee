@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Maisha Supritee Chowdhury</h1>
 <h3 align="center">A Computer Science new grad with a strong passion and work ethic, actively seeking work pportunities to further develop my skills. Proficient in Python, C++, JavaScript, TypeScript, SQL, HTML/CSS, and Java, with a proven track record of creating impactful software solutions.</h3>
 
-- 🔭 I’m currently working on [SetSet - Voice AI Platform](https://www.linkedin.com/company/rapidroutes)
-- 🌱 I’m currently learning **OpenAI, LangChain, AWS, TypeScript, JavaScript, React, NextJS**
+- 🔭 I’m currently working on [Github Code Counter - Chrome Extension](https://github.com/maishaSupritee/git-code-counter)
+- 🌱 I’m currently learning **Machine Learning, TypeScript, JavaScript, React, NextJS**
 - 💬 Curious about me or my projects? **Just ask!**
 - 📫 How to reach me: **Please contact me via LinkedIn below**
 - ⚡Some fun facts about me: **I love drawing, painting, and fantasy books!**
